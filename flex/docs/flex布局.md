@@ -51,7 +51,7 @@ Webkit内核浏览器必须加上-webkit前缀。
 * align-items
 * align-content
 
-###3.1 flex-direction  -   决定主轴方向（即项目排列方向）
+### 3.1 flex-direction  -   决定主轴方向（即项目排列方向）
 
 ```
 .box {
@@ -62,7 +62,7 @@ Webkit内核浏览器必须加上-webkit前缀。
 ![](flex-direction.png)
 
 
-###3.2 flex-wrap  - 决定如何换行
+### 3.2 flex-wrap  - 决定如何换行
 
 默认情况下项目都排在一条轴线上，flex-wrap定义如果一行排不下如何换行
 
